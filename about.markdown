@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is the Residents Association for the Rivergate development PE1 in Peterborough city centre, United Kingdom. Each year the Association is renewed according to the Constitution. Ask [residentsassociation@firstport.co.uk](residentsassociation@firstport.co.uk) for contact detail of the current Executive Committee of the Association.
