@@ -30,3 +30,8 @@ The [Anti-Social Behaviour team](antisocialbehaviour@peterborough.gov.uk) and [P
 
 ## Waste Collection
 The [Recycling team](recycling@peterborough.gov.uk) is headed by Amy Nebel [Amy.Nebel@peterborough.gov.uk](Amy.Nebel@peterborough.gov.uk).
+
+### Large or Electrical Items Disposal
+In Peterborough, if left in the bin store, the whole bin store collection may be *rejected* for £300+ re-collection free.
+
+Take them to the Household Recycling Centre (HRC) in Fengate, or call the council (01733 747474) to book collection of up to six items for circa £30.
