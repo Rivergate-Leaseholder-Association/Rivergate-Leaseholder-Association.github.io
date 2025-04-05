@@ -1,5 +1,5 @@
 ---
-title: Rivergate-related Practical Information
+title: Rivergate-related Practical and Contact Information
 layout: post
 ---
 
