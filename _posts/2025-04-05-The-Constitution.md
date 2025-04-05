@@ -3,6 +3,8 @@ title: The Constitution
 layout: post
 ---
 
+[Updates](#updates) to the Constitution can be found after the full text.
+
 WE, THE UNDERSIGNED, having resolved to form an Association to represent the interests of the leaseholders of the development known as RIVERGATE PE1 on matters of common interest, have further resolved to adopt the rules of the Association annexed hereto which we have signed for identification purposes.
 
 1. The Association shall be called **Rivergate Leaseholders Association** ("the Association")
@@ -63,3 +65,9 @@ These rules may be varied or added to by resolution of the Association in genera
         * Secretary     ______
         * Member        ______
         * Member        ______
+
+## Updates
+* AGM 2025: The constitution will continue to have all matters of membership fee and finance suspended until such time as it is considered necessary to lift the suspension.
+
+## Alternative formats of the Constitution
+[docx](/assets/2025-04-Constitution/RLA-Constitution.docx)
