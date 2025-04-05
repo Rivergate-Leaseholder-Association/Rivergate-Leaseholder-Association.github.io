@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 This site is set up and hosted by [GitHub Pages](https://pages.github.com). Click on "Blogging with Jekyll" at the bottom of the page for the writing guide in the Markdown syntax.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You’ll find this post in your `_posts` directory. Refer to the source of the posts already in this directory for further examples of writing in Markdown. Just do `git commit`, `git push` to visualise the change on [this site](/).
 
 Jekyll requires blog post files to be named according to the following format:
 
