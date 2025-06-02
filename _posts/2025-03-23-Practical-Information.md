@@ -26,7 +26,7 @@ The [Anti-Social Behaviour team](mailto:antisocialbehaviour@peterborough.gov.uk)
 
 1. Raise to [the StreetLink](https://thestreetlink.org.uk/) about homeless staying;
 
-2. To raise about suspected drug activities, go to [https://www.cambs.police.uk/tua/tell-us-about/soh/seen-or-heard/](https://www.cambs.police.uk/tua/tell-us-about/soh/seen-or-heard/). Click on the last button "Report something else" to start reporting. That's _the_ fastest way. This *must* be done for producing an official record. Keep the case reference number. Call 999 if in emergency.
+2. To raise about suspicious activity, crimes or offences, go to [https://www.cambs.police.uk/tua/tell-us-about/soh/seen-or-heard/](https://www.cambs.police.uk/tua/tell-us-about/soh/seen-or-heard/). Click on nothing but the last button "Report something else" to start reporting. This *must* be done for producing an official record. Keep the case reference number. Call 999 if in emergency.
 
 ## Waste Collection
 The [Recycling team](mailto:recycling@peterborough.gov.uk) is headed by Amy Nebel [Amy.Nebel@peterborough.gov.uk](mailto:Amy.Nebel@peterborough.gov.uk).
