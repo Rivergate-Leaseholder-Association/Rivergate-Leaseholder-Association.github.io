@@ -12,7 +12,7 @@ The freeholder is represented by [Estates and Management](https://www.e-m.uk.com
 ## The Management Company
 The management company is [FirstPort](https://www.firstport.co.uk).
 
-Each leaseholder still has responsibility to raise issues as soon as you spot them, by call (+44 333 321 4080), email ([help@firstport.co.uk](mailto:help@firstport.co.uk)), or within the MyHome portal ([https://myhome.firstport.co.uk](https://myhome.firstport.co.uk)). Keep the case reference number. If you find the case is not being handled, let the Committee of the Association know ASAP.
+Each leaseholder has responsibility to raise issues as soon as you spot them, by call (+44 333 321 4080), email ([help@firstport.co.uk](mailto:help@firstport.co.uk)), or within the MyHome portal ([https://myhome.firstport.co.uk](https://myhome.firstport.co.uk)). Keep the case reference number. If you find the case is not being handled, let the Committee of the Association know ASAP.
 
 ## Planning Applications
 Search for "planning application search peterborough" to locate the website hosting recent planning applications in Peterborough.
